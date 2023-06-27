@@ -34,7 +34,8 @@ First clone the repo
 
 
 3. The application will open in your web browser, displaying a live dashboard of your CPU usage and temperature.
-
+## Screenshot
+![Screenshot](./screenshot.png)
 ## Customization
 
 You can customize the dashboard by modifying the `app.py` file. For example, you can change the update interval, display other data, or modify the appearance of the chart.
